@@ -1,0 +1,6 @@
+[submodule "restaurant-springboot"]
+	path = restaurant-springboot
+	url = https://github.com/mariacavalc/restaurant-springboot.git
+[submodule "restaurant-angular"]
+	path = restaurant-angular
+	url = https://github.com/mariacavalc/restaurant-angular.git
